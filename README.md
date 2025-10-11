@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Himanshu Tamrakar</h1>
-<h3 align="center">💻 Frontend Developer | React | Next.js | Java</h3>
+<h3 align="center">💻 FullStack Developer | React | Next.js | Java</h3>
 <p align="center">Building responsive, interactive, and user-friendly web applications 🚀</p>
 
 ---
